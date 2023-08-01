@@ -1,0 +1,16 @@
+node_modules
+.env
+.info
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+access_token
+.idea
+.DS_Store
+*.iml
